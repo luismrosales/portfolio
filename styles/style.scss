@@ -44,6 +44,7 @@ $gray-text: #2c2c2c;
     @include flex(center, center, row);
   }
   nav {
+    margin: 0 2rem;
     .logo {
       @include flex(center, center, column);
       flex: 1 1 20rem;

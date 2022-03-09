@@ -320,6 +320,9 @@ nav ul {
         -ms-flex-direction: row;
             flex-direction: row;
   }
+  nav {
+    margin: 0 2rem;
+  }
   nav .logo {
     display: -webkit-box;
     display: -ms-flexbox;
